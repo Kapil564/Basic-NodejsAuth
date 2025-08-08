@@ -215,10 +215,6 @@ const response = await fetch('/api/auth/check', {
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the ISC License.
-
----
 
 **Note**: This is a basic authentication system. For production use, consider adding additional security measures like rate limiting, CORS configuration, and more robust error handling.
